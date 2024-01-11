@@ -1,4 +1,4 @@
-# LlamaConda
+# Llama2 install on anaconda
 This is where you download the model to test run and run on. Here I put some tips for you to easier to do without having to google and find the result 
 **based on the youtube** 
 _https://www.youtube.com/watch?v=k2FHUP0krqg_
