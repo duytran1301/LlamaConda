@@ -9,8 +9,10 @@ _https://www.youtube.com/watch?v=k2FHUP0krqg_
 
 - conda activate textgen
 
-- install pytorch: pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117 
 **# please check ther verion you download by simply find on pytorch **
+
+- install pytorch: pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117 
+
 
 **#download git using conda if you haven't got git yet**
 - conda install -c anaconda git
